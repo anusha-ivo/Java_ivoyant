@@ -7,6 +7,7 @@ public class Arithmatic_Operations {
         int e=a*b;
         int f=a%b;
         int g=a/b;
+        //all operations
         System.out.println(" A value  is : "+a);
         System.out.println(b);
         System.out.println(" addition is : "+c);
