@@ -4,6 +4,6 @@ public class Basic {
         //void=does not return anything
         //main=name of method
         //static=without creating object we access
-        //all about sytax realted
+        //all about sytax realted in main
     }
 }
