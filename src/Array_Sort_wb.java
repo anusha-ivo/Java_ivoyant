@@ -13,6 +13,8 @@ public class Array_Sort_wb {
 
                 }
             }
+        } for(int i=0;i<a.length-1;i++) {
+            System.out.println(a[i]);
         }
         System.out.println("arrays after sorting : "+ Arrays.toString(a));
         for(int i=0;i<a.length-1;i++){// one pass should less than n so length-1
