@@ -16,6 +16,7 @@ public class Three_d_jagged {
                 a[i][j] = new int[s.nextInt()];
             }
         }
+
         System.out.println("enter elements : ");
         for(int i=0;i< a.length;i++){
             for(int j=0;j<a[i].length;j++){
