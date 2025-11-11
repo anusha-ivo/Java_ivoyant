@@ -1,3 +1,4 @@
+
 public class Super_key {
     public static void main(String args[]){
         Stu s=new Stu("anu",24);

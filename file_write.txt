@@ -1,0 +1,4 @@
+by bufferedwrite
+next new lineby bufferedwrite
+next new lineby bufferedwrite
+next new line
