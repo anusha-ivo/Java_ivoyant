@@ -1,4 +1,6 @@
 this is file 1 content
+file 2 contents
 this is file 1 content
+file 2 contents
 this is file 1 content
-hi
+file 2 contents
