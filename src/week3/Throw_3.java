@@ -7,7 +7,7 @@ public class Throw_3 {
         try{
             throw new SQLException("hi");
         }
-        catch(Exception e){
+        catch(ArithmeticException | SQLException e){
 
         }
 
