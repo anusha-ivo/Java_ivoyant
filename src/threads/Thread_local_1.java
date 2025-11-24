@@ -2,8 +2,9 @@ package threads;
 
 public class Thread_local_1 {
     public static void main(String[] args){
-        ThreadLocal t=new ThreadLocal(){
+        ThreadLocal t= new ThreadLocal(){
             public Object initialValue(){
+
                 return "kav";
             }
         };

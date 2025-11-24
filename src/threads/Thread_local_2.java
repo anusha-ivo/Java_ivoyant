@@ -16,10 +16,12 @@ class Tes_1 extends  Thread{
      static int n=0;
     ThreadLocal<Integer> t=new ThreadLocal<Integer>() {
         public Integer initialValue() {
+
             return ++n;
         }
     };
     public void run(){
+
         System.out.println(Thread.currentThread().getName() +" running with value "+t.get());
     }
 }

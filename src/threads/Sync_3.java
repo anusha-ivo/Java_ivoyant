@@ -3,6 +3,7 @@ package threads;
 public class Sync_3 {
     public static void main(String[] args){
         Syn_3 s=new Syn_3();
+        Syn_3 s2=new Syn_3();
         Thread t=new Thread(s,"t1");
         Thread t2=new Thread(s,"t2");
         t.start();

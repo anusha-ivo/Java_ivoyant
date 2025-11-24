@@ -25,6 +25,7 @@ class C{
 
     }
 
+
 }
 class D{
     synchronized void m2(C c){

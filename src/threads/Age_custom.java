@@ -3,17 +3,18 @@ package threads;
 public class Age_custom {
     public static void main(String[] args){
         try{
-            throw new AgeNotValid(12);
+            throw new AgeNotValid_1(12);
         }
-        catch ( AgeNotValid e){
+        catch ( AgeNotValid_1 e){
             System.out.println(e.toString());
         }
     }
 }
-class  AgeNotValid extends Exception{
+class  AgeNotValid_1 extends Exception{
+
     int a;
 
-    public AgeNotValid(int a) {
+    public AgeNotValid_1(int a) {
         this.a = a;
     }
     public String toString(){
