@@ -1,4 +1,4 @@
-package Week5;
+package mapInterface;
 
 public class String_split_1 {
     public static void main(String[] args){
