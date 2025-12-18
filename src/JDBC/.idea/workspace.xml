@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="890c72d4-44cb-42ee-9879-30c884f62811" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../maven_project_1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mymaven_1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "anusha-ivo"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/anusha-ivo/Java_ivoyant.git",
+    "accountId": "c0e42767-2e21-4fe4-8b3c-6292545782e7"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="371q9xlAvoptOdVIMZca7ANVHAG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "feature/week6.1",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Anusha JM/OneDrive/Desktop/java_ivoyant/java_ivoyant/src/JDBC"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="890c72d4-44cb-42ee-9879-30c884f62811" name="Changes" comment="" />
+      <created>1766080777296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1766080777296</updated>
+    </task>
+    <servers />
+  </component>
+</project>
